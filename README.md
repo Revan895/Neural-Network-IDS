@@ -10,10 +10,10 @@ The CSE-CIC-IDS2018 dataset is large and segmented by day, with each file corres
 For this project, only four days were selected: `02-14-2018.csv`, `02-15-2018.csv`, `02-22-2018.csv`, `03-02-2018.csv`. 
 
 ## Attack Types
- 02-14-2018.csv - FTP-BruteForce, SSH-Bruteforce
- 02-15-2018.csv - DoS-Slowloris, DoS-GoldenEye
- 02-22-2018.csv - Brute Force Web, Brute Force XSS, SQL Injection
- 03-02-2018.csv - Botnet 
+`02-14-2018.csv` - FTP-BruteForce, SSH-Bruteforce
+`02-15-2018.csv` - DoS-Slowloris, DoS-GoldenEye
+`02-22-2018.csv` - Brute Force Web, Brute Force XSS, SQL Injection
+`03-02-2018.csv` - Botnet 
 
 
 
