@@ -1,5 +1,5 @@
 # Project Overview
-This repository presents a modular pipeline for multiclass intrusion detection using the CSE-CIC-IDS2018 dataset. It goes through preprocessing, label mapping, model training and performance evaluation across the selected algorithms. Model selection was guided by comparative performance observed on the NSL-KDD dataset, where candidate algorithms—Deep Learning, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost and Naive Bayes were benchmarked on precision, recall, and F1 metrics for binary intrusion classification. The top performers, XGBoost, and Deep Learning, were selected for CSE-CIC-IDS2018.
+This repository presents a pipeline for multiclass intrusion detection using the CSE-CIC-IDS2018 dataset. It goes through preprocessing, label mapping, model training and performance evaluation across the selected algorithms. Model selection was guided by comparative performance observed on the NSL-KDD dataset, where candidate algorithms—Deep Learning, Logistic Regression, Decision Tree, Random Forest, SVM, KNN, XGBoost and Naive Bayes were benchmarked on precision, recall, and F1 metrics for binary intrusion classification. The top performers, XGBoost, and Deep Learning, were selected for CSE-CIC-IDS2018.
 
 ## CSE-CIC-IDS2018 Dataset 
 This project uses the CSE-CIC-IDS2018 dataset for network intrusion detection modeling.
